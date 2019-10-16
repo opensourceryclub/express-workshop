@@ -1,0 +1,24 @@
+{
+  "name": "express-workshop-level-0",
+  "version": "1.0.0",
+  "description": "Source code for level 0 of the Express workshop by Open Sourcery",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "./test.sh",
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "Express",
+    "Workshop",
+    "Open",
+    "Sourcery",
+    "OpSrc",
+    "Node"
+  ],
+  "author": "Donald Isaac",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1"
+  }
+}
